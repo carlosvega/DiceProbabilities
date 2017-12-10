@@ -5,5 +5,5 @@ I will update this readme soon.
 
 ## Some references
 
-http://mathworld.wolfram.com/Dice.html
-https://www.lucamoroni.it/the-dice-roll-sum-problem/
+* http://mathworld.wolfram.com/Dice.html
+* https://www.lucamoroni.it/the-dice-roll-sum-problem/
