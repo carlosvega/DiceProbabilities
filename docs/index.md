@@ -1,7 +1,7 @@
 # DiceProbabilities
 Probabilities of the sum results from rolling n dice with s sides
 
-**The problem statement is:**
+**The problem statement reads:**
 
 > Given a certain number d of dices and a number n of throws, write a function that plots the distribution of the sum of the dices (i.e. an histogram of how many times a particular sum occurs).
 
