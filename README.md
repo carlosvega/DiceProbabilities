@@ -1,5 +1,5 @@
 # Dice Probabilities
-Probabilities of the sum results from rolling n dice with s sides
+*Probabilities of the sum results from rolling **n** dice with **s** sides*
 
 <p align="right">
   Also available at: <a href="https://carlosvega.github.io/DiceProbabilities/">https://carlosvega.github.io/DiceProbabilities/</a>
