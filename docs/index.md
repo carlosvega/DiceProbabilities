@@ -1,7 +1,7 @@
 # Dice Probabilities
 Probabilities of the sum results from rolling n dice with s sides
 
-<iframe src="https://github.com/carlosvega/DiceProbabilities/raw/master/docs/interactive/styled_bar_chart.html" width="640" height="480" style="display:block; margin: 0 auto;" frameBorder="0">&nbsp;</iframe>
+<iframe src="https://carlosvega.github.io/DiceProbabilities/interactive/styled_bar_chart.html" width="640" height="480" style="display:block; margin: 0 auto;" frameBorder="0">&nbsp;</iframe>
 
 **The problem statement reads:**
 
