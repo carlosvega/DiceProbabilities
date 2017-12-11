@@ -1,4 +1,4 @@
-# DiceProbabilities
+# Dice Probabilities
 Probabilities of the sum results from rolling n dice with s sides
 
 <p align="right">
@@ -15,3 +15,5 @@ The solution is based on the two following articles, in which they use the solut
 
 * http://mathworld.wolfram.com/Dice.html
 * https://www.lucamoroni.it/the-dice-roll-sum-problem/
+
+![Matlab result example](https://github.com/carlosvega/DiceProbabilities/raw/master/docs/dice.png)
