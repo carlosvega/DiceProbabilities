@@ -26,6 +26,6 @@ The **MATLAB** code spans 3 files. The code is just quick scratch *wibbly wobbly
 
 A version in **Python** can be found in the following [Jupyter Notebook](https://github.com/carlosvega/DiceProbabilities/blob/master/docs/interactive/Charts.ipynb) from the interactive plot.
 
-The MATLAB version prints a PDF such as this. *Careful with big number of dice and the xticks.*
+The MATLAB version prints a PDF such as [this](https://github.com/carlosvega/DiceProbabilities/raw/master/docs/dice.pdf). *Careful with big number of dice and the xticks.*
 
 ![Matlab result example](https://github.com/carlosvega/DiceProbabilities/raw/master/docs/dice.png)
