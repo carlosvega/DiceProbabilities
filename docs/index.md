@@ -13,8 +13,11 @@ The solution is based on the two following articles, in which they use the solut
 
 <iframe src="https://archive.org/stream/in.ernet.dli.2015.263184?ui=embed" width="480" height="430" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+# References
+
 * [http://mathworld.wolfram.com/Dice.html](http://mathworld.wolfram.com/Dice.html)
 * [https://www.lucamoroni.it/the-dice-roll-sum-problem/](https://www.lucamoroni.it/the-dice-roll-sum-problem/)
+* [Introduction To Mathematical Probability](https://archive.org/details/in.ernet.dli.2015.263184)
 
 # The code
 
