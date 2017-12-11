@@ -24,7 +24,10 @@ The solution developed is based on the two following articles, in which they use
 The **MATLAB** code spans 3 files. The code is just quick scratch *wibbly wobbly wimey stuff*, so please, don't blame me. 😇
 
 * The function [dice_prob_distr](https://github.com/carlosvega/DiceProbabilities/blob/master/dice_prob_distr.m). This is the main function.
-* The function [dice_prob](https://github.com/carlosvega/DiceProbabilities/blob/master/dice_prob.m), which calculates the probability for obtaining a given total **p** using **n** dice with **s** sides.
+* The function [dice_prob](https://github.com/carlosvega/DiceProbabilities/blob/master/dice_prob.m), which calculates the probability for obtaining a given total **p** using **n** dice with **s** sides. The calculated probability follows the aforementioned formula, shaped as:
+
+![Formula 2nd version](http://mathworld.wolfram.com/images/equations/Dice/NumberedEquation8.gif)
+
 * The function [comb_sans_repeat](https://github.com/carlosvega/DiceProbabilities/blob/master/comb_sans_repeat.m) calculates combinations without repetition.
 
 A version in **Python** can be found in the following [Jupyter Notebook](https://github.com/carlosvega/DiceProbabilities/blob/master/docs/interactive/Charts.ipynb) from the interactive plot.
