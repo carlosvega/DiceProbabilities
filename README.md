@@ -13,8 +13,11 @@ The solution developed is based on the two following articles, in which they use
 
 ![Formula](https://github.com/carlosvega/DiceProbabilities/raw/master/docs/formula.png)
 
+# References
+
 * [http://mathworld.wolfram.com/Dice.html](http://mathworld.wolfram.com/Dice.html)
 * [https://www.lucamoroni.it/the-dice-roll-sum-problem/](https://www.lucamoroni.it/the-dice-roll-sum-problem/)
+* [Introduction To Mathematical Probability](https://archive.org/details/in.ernet.dli.2015.263184)
 
 # The code
 
