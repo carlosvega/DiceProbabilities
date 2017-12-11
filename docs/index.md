@@ -1,4 +1,4 @@
-# DiceProbabilities
+# Dice Probabilities
 Probabilities of the sum results from rolling n dice with s sides
 
 **The problem statement reads:**
