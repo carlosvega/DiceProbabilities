@@ -1,6 +1,8 @@
 # Dice Probabilities
 Probabilities of the sum results from rolling n dice with s sides
 
+<iframe src="https://github.com/carlosvega/DiceProbabilities/raw/master/docs/interactive/styled_bar_chart.html" width="640" height="480" style="display:block; margin: 0 auto;" frameBorder="0">&nbsp;</iframe>
+
 **The problem statement reads:**
 
 > Given a certain number d of dices and a number n of throws, write a function that plots the distribution of the sum of the dices (i.e. an histogram of how many times a particular sum occurs).
@@ -14,5 +16,5 @@ The solution is based on the two following articles, in which they use the solut
 * http://mathworld.wolfram.com/Dice.html
 * https://www.lucamoroni.it/the-dice-roll-sum-problem/
 
-I will update this readme soon.
 
+![Matlab result example](https://github.com/carlosvega/DiceProbabilities/raw/master/docs/dice.png)
