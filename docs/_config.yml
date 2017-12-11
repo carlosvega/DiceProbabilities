@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+title: Dice Probabilities
+description: Probabilities of the sum results from rolling n dice with s sides.
+show_downloads: true
